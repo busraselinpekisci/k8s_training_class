@@ -14,4 +14,5 @@ docker version
 
 Bu komutlar, yüklü olan Docker sürümünü ve diğer ilgili bilgileri gösterecektir.
 
-![](./images/docker_version_check_result.jpg)
+
+![Docker Version Check Result](./images/docker_version_check_result.jpg)
