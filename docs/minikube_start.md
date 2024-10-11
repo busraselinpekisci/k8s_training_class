@@ -36,6 +36,8 @@ Bu adımlar, Minikube'u başlatmak için gereken temel işlemleri kapsar. Eğer 
 
 ## Steps to Install Minikube (Tuncer)
 
+ 
+
 1. **Update and Upgrade the System**:
    Before proceeding, it's good practice to update the package lists and upgrade installed packages:
 
@@ -67,10 +69,14 @@ Bu adımlar, Minikube'u başlatmak için gereken temel işlemleri kapsar. Eğer 
    minikube dashboard
    ```
 
-5. **Using kubectl with Minikube**:
-   
-   You can now use `kubectl` to manage your Minikube cluster. For example, check the nodes in your cluster with:
-   
-   ```bash
-   kubectl get nodes
-   ```
+                                                     
+
+                                                     5. **Using kubectl with Minikube**:
+
+                                                        You can now use `kubectl` to manage your Minikube cluster. For example, check the nodes in your cluster with:
+
+                                                           ```bash
+
+                                                              kubectl get nodes
+
+                                                                 ```
