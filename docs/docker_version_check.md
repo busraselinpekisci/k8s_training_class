@@ -6,6 +6,8 @@ Docker versiyonunu kontrol etmek için aşağıdaki komutu kullanabilirsiniz:
 docker --version
 ```
 
+![](./images/docker_version_check_result.jpg)
+
 Ya da daha ayrıntılı bilgi almak için:
 
 ```bash
@@ -14,5 +16,4 @@ docker version
 
 Bu komutlar, yüklü olan Docker sürümünü ve diğer ilgili bilgileri gösterecektir.
 
-
-![Docker Version Check Result](./images/docker_version_check_result.jpg)
+![](./images/docker_version_check_result2.jpg)
